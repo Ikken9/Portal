@@ -28,12 +28,12 @@ and also install tqdm from the [official repo](https://github.com/tqdm/tqdm#inst
 Run it as a normal python script: ./main.py <parameters...> <br>
 Parameters:
 
-    <br> -H, --host <target-ip> (required)
-    <br> -P, --ports <port> or <smaller-port> - <largest-port> (optional, if empty a full range scan will be performed)
-    <br> -m, --mode <[sS, sT, sU, sX]> (required)
-    <br> -o, --open (optional)
-    <br> -c, --closed (optional)
-    <br> -f, --filtered (optional)
+    -H, --host <target-ip> (required)
+    -P, --ports <port> or <smaller-port> - <largest-port> (optional, if empty a full range scan will be performed)
+    -m, --mode <[sS, sT, sU, sX]> (required)
+    -o, --open (optional)
+    -c, --closed (optional)
+    -f, --filtered (optional)
 
 <br> -H: Target host ip.
 <br> -P: Target port(s).
