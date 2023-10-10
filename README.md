@@ -17,7 +17,7 @@ that aren't shown.
 
 ### Note
 The main purpose of this project is just learn, this is not the fastest or powerful port scanner ever made, there's a 
-bunch of another port scanners that works better.
+bunch of other port scanners that works better.
 
 ## Installation
 ### Prerequisites
